@@ -8,4 +8,4 @@ Fortune Cookies
 ### Week 1
 | Category | Challenge |
 | --- | --- |
-| Web Exploitation | [Judul 1](/Judul%201/)
+| Web Exploitation | [Fortune cookie](/Judul%201/)
