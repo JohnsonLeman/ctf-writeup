@@ -1,24 +1,17 @@
-# Judul 1
-> description chall
+# Fortune Cookie
 
 ## About the Challenge
-Diberikan sebuah gambar anime (what you got from the chall)
 
-![preview](images/preview.jpg)
 
 ## Solution
-Write how you solve the chall
-
-```shell
-To put your image on github using
-![name_of_image](images/name_of_image.jpg)
-```
-
-```shell
-if __name__ == "__main__":
-  print("Put your code or payload in here")
-```
+1. Buka link yang diberikan http://103.167.136.89:10088/
+2. Inspect pada link yang diberikan
+3. Buka tab application
+4. Pada menu storage klik cookies
+5. Ubah value flag menjadi 1
+6. Klik get your fortune pada link
+7. Anda akan mendapatkan: 
 
 ```
-ForestyHC{H4ck3rrr_Cla555}
+ForestyHC{here_is_your_fortun3_cookie_4a0a47}
 ```
