@@ -9,4 +9,4 @@ Fortune Cookies
 | Category | Challenge |
 | --- | --- |
 | Web Exploitation | [Fortune cookie](/Judul%201/)
-| Web Exploitation | [Sanity Check](/Judul%202/)
+| MISCELLANEOUS | [Sanity Check](/Judul%202/)
